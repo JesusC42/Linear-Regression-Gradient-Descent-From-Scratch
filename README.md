@@ -1,0 +1,3 @@
+The is a Linear Regression with Gradient Descent machine learning model I made for an exam project. It is a class coded from scratch. The train data is data of students' sleep hours, study hours, previous test scores, and other things like that and the target is their performance index. The data contained missing
+values and data entry errors, so it required cleaning. The test data contained no errors as well as no performance index column, hence writing predicted values to the predictions file. Finally, there's a bunch of metrics printed out all pertaining to the model's performance and the most important features from the 
+training data. You may run the file as it is.
